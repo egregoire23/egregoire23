@@ -1,10 +1,8 @@
-# About me
+# Hello, I'm Erin!
 
-**egregoire23/egregoire23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I will write an about me here that will also go on linked in.
 
-Here are some ideas to get you started:
+This GitHub portfolio details the Data Science, Machine Learning, and Artificial Intelligence works that I have completed throughout my career. Please take a look around!
 
-- 🔭 I’m currently working on deep learning.
-- 🌱 I’m currently learning about neural networks.
-- 😄 Pronouns: she/her
-
+Check out my LinkedIn: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)](https://www.linkedin.com/in/erin-r-gregoire/)
