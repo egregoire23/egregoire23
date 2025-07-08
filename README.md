@@ -28,12 +28,12 @@ Click to view: [SentimentAnalysisWithTransformers](https://github.com/egregoire2
 To classify whether a review is positive or negative from Amazon product review data, I constructed a transformer with custom positional encoding and an encoder system. 
 
 ### Supervised Learning in R!
-Click to view:
+Click to view: [SupervisedWithR](https://github.com/egregoire23/SupervisedWithR)
 
 To view the supervised machine learning techniques that I have mastered using R, small projects are presented here, including data pre-processing, decision trees, neural networks, Random Forest, logistic regression, and more!
 
 ### Unsupervised Learning in R!
-Click to view:
+Click to view: [UnsupervisedWithR](https://github.com/egregoire23/UnsupervisedWithR/tree/main)
 
 View the projects that I have explored in R using unsupervised machine learning tools, such as Recommender Systems, Clustering, and Bayesian Networks!
 
