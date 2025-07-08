@@ -37,6 +37,11 @@ Click to view:
 
 View the projects that I have explored in R using unsupervised machine learning tools, such as Recommender Systems, Clustering, and Bayesian Networks!
 
+### Actor-Critic Methods on Lunar Lander & Bipedal Walker
+Click to view: [ActorCriticMethodsRL](https://github.com/egregoire23/ActorCriticMethodsRL/tree/main)
+
+In this project, my team builds the A2C reinforcement learning agent and evaluate its performance on the Lunar Lander and Bipedal Walker gymnasium environments.
+
 ### Analysis of Food Store Accessibility in Erie County, New York
 Click to view: [AnalysisOfFoodStoreAccessibility](https://github.com/egregoire23/AnalysisOfFoodStoreAccessibility)
 
