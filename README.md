@@ -1,7 +1,11 @@
 # Hello, I'm Erin!
 
 ### About Me
-I will write an about me here that will also go on linked in.
+I am a recent graduate from the University at Buffalo, where I earned my Master’s degree in Data Science and Applications. Over the course of my studies, I’ve developed a strong foundation not only in Data Science, but also in related areas such as Computer Science, Artificial Intelligence, Database Management, and Cybersecurity. I am thankful to have prioritized gaining such a well-rounded and versatile technical skill set.
+
+Currently, I’m completing a Data Analytics internship with the National STEM Honor Society. As part of the E-commerce team, I leverage Python, R, and SQL to extract, analyze, and communicate key business insights. It is rewarding to know that I am helping NSTEM connect students all across the world with access to their STEM resources. 
+
+Now, I’m actively seeking a full-time role where I can bring my analytical mindset, technical expertise, and enthusiasm for learning to a collaborative team, making a meaningful impact every day.
 
 This GitHub portfolio details the Data Science, Machine Learning, and Artificial Intelligence works that I have completed throughout my career. Please take a look around!
 
