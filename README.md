@@ -7,7 +7,7 @@ Currently, I’m completing a Data Analytics internship with the National STEM H
 
 Now, I’m actively seeking a full-time role where I can bring my analytical mindset, technical expertise, and enthusiasm for learning to a collaborative team, making a meaningful impact every day.
 
-This GitHub portfolio details the Data Science, Machine Learning, and Artificial Intelligence works that I have completed throughout my career. Also, view my resume [here](https://drive.google.com/file/d/1mR7RMHeTkUbS4bAJXz-7GEbtogy8tmWb/view?usp=sharing). Please take a look around!
+This GitHub portfolio details the Data Science, Machine Learning, and Artificial Intelligence works that I have completed throughout my career. Also, view my resume [here](https://drive.google.com/file/d/1JrHjr66LhrrMN_grNJqbmIX5VAQqQaDW/view?usp=sharing). Please take a look around!
 
 ## Projects
 
